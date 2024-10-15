@@ -25,7 +25,4 @@ This project contains automated test cases for testing the login functionality o
 
 ## Running the Tests
 
-1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/yourusername/selenium-login-automation-test.git
